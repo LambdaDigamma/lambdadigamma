@@ -14,7 +14,7 @@
 <a href="https://twitter.com/lambdadigamma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lambdadigamma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8456280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8456280" height="30" width="40" /></a>
 <a href="https://instagram.com/lambdadigamma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lambdadigamma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fasfadsfasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fasfadsfasdf" height="30" width="40" /></a>
+<!--<a href="https://www.youtube.com/c/fasfadsfasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fasfadsfasdf" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
